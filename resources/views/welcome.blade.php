@@ -93,6 +93,10 @@
         <div class="btn-group">
             <a href="/desayunos" class="btn btn-primary btn-lg btn-desayunos">Ir a desayunos</a>
         </div>
+
+        <div class="btn-group">
+            <a href="/salon" class="btn btn-primary btn-lg btn-desayunos">Ver el salon</a>
+        </div>
         
     </div>
 </body>
